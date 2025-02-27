@@ -1,0 +1,23 @@
+[
+    {
+      "title": "Lavender Entertainment",
+      "imageSrc": "projects/project.png",
+      "description": "Developed a booking system using PHP, MySQL, and CSS, prepared user documentation, collaborated with clients to enhance website functionality, and delivered technical presentations on system features.",
+      "skills": ["PHP", "HTML", "CSS"],
+      "source": "https://github.com/Ting-Ma/Lavender-entertainment-project-Monash"
+    },
+    {
+      "title": "Asakai martial Arts",
+      "imageSrc": "projects/project.png",
+      "description": "Built and deployed a full-stack web application using PHP, MySQL, and CSS, optimized backend performance, provided user training, and improved website functionality for a seamless experience.",
+      "skills": ["React", "Express", "Node"],
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Porfolio website",
+      "imageSrc": "projects/project.png",
+      "description": "This project is a personal resume showcase built with React.js and CSS, highlighting my professional background, skills, and experience in an interactive, responsive design that engages and informs potential employers.",
+      "skills": ["React", "CSS", "SQL"],
+      "source": "https://www.github.com"
+    }
+  ]
