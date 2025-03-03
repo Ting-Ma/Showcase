@@ -17,10 +17,6 @@
     color: var(--color-text)
 }
 
-.menuBtn {
-    display: none;
-}
-
 .menu{
     display: flex;
 }
@@ -52,12 +48,6 @@
         gap: 11px;
         z-index: 3;
     }
-
-    .menuBtn{
-        display: block;
-        cursor: pointer;
-    }
-
     .menuItems {
         display: none;
         flex-direction: column;
@@ -72,10 +62,5 @@
         );
         padding: 24px 33px;
         box-shadow: 0 0 4px 0 rgba(0,0,0,0.25);
-    }
-
-    .menuOpen{
-        display: flex;
-        z-index: 1;
     }
 }
